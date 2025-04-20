@@ -1,2 +1,0 @@
-# preco-ceasa
-preco-ceasa
